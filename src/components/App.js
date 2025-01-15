@@ -32,7 +32,7 @@ function App() {
       </Routes>
 
       <footer className="container">
-        &copy;2022 | <a href="https://www.rp.edu.sg/">Republic Polytechnic</a>
+        &copy;2025 | <a href="https://www.rp.edu.sg/">Republic Polytechnic</a>
       </footer>
     </div>
   );
